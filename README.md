@@ -8,7 +8,7 @@ whatch this:
 
 # select count
 
-<img src="docs/select_37.mov" alt="select" width="500" align="middle">
+<img src="docs/select_37.mov" alt="select" width="550" align="middle">
 
 
 
