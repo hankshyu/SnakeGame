@@ -6,7 +6,10 @@ whatch this:
 
 
 
+Three Levels to challange:
 
+### Level 1
 
-![play](https://user-images.githubusercontent.com/67572824/186880909-6bd3e81c-144a-4720-b308-d38dd2cc2644.mov)
+<img src="docs/lv1.png" alt="lv1" width="500" height="600">
+
 
