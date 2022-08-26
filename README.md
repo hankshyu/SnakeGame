@@ -10,6 +10,6 @@ Three Levels to challange:
 
 ### Level 1
 
-<img src="docs/lv1.png" alt="lv1" width="500" height="600">
+<img src="docslLv1.png" alt="lv1" width="500" align="middle">
 
 
