@@ -12,7 +12,7 @@ whatch this:
 
 # select count
 <p align="center">
-  <img src="docs/select_37.mov" alt="select" width="550" align="middle">
+  <img src="docs/select_37.mov" alt="select" width="550">
 </p>
 
 
