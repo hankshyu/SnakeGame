@@ -4,32 +4,43 @@
 
 whatch this:
 
-<img src="docs/play_37.mov" alt="playing_game" width="550" >
+
+<p align="center">
+  <img src="docs/play_37.mov" alt="playing_game" width="550" >
+</p>
+
 
 # select count
-
-<img src="docs/select_37.mov" alt="select" width="550" align="middle">
-
+<p align="center">
+  <img src="docs/select_37.mov" alt="select" width="550" align="middle">
+</p>
 
 
 ## Three Levels to challange:
 
 1.Level 1
 
-<img src="docs/lv1.png" alt="lv1" width="550">
+<p align="center">
+  <img src="docs/lv1.png" alt="lv1" width="550">
+</p>
+
 
 2.Level 2
 
-<img src="docs/lv2.png" alt="lv2" width="550">
+<p align="center">
+  <img src="docs/lv2.png" alt="lv2" width="550">
+</p>
 
 3.Level 3
 
-<img src="docs/lv3.png" alt="lv3" width="550">
+<p align="center">
+  <img src="docs/lv3.png" alt="lv3" width="550">
+</p>
 
 # Score count
-
+<p align="center">
 <img src="docs/score.JPG" alt="score" width="550">
-
+</p>
 
 
 
