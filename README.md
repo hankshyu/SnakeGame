@@ -12,8 +12,6 @@
 > 
 > PIA KRISHNANKUTTY 18 July, 2020 02:00 pm IST
 
-Snake 
-
 
 ## How to play?
 
@@ -22,25 +20,17 @@ Snake
 <p align="center">
   <img src="docs/select_37.mov" alt="select" width="550">
 </p>
+
 ### 2.Three Levels to challange:
 
-1.Level 1
 
-<p align="center">
-  <img src="docs/lv1.png" alt="lv1" width="550">
-</p>
 
-2.Level 2
+|  Level 1   | Level 2  | Level 2  |
+|:----:|:----:|:----:|
+|60 seconds| 90 seconds| 105 seconds|
+|![lv1](docs/lv1.png)  |![lv1](docs/lv2.png) |![lv1](docs/lv3.png) |
 
-<p align="center">
-  <img src="docs/lv2.png" alt="lv2" width="550">
-</p>
 
-3.Level 3
-
-<p align="center">
-  <img src="docs/lv3.png" alt="lv3" width="550">
-</p>
 ### 3.Play the game
 
 
