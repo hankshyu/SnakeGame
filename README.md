@@ -13,14 +13,19 @@
 > PIA KRISHNANKUTTY 18 July, 2020 02:00 pm IST
 
 
+
 ## How to play?
 
 ### 1.Greetings and select your level
+
+
+
 
 <p align="center">
   <img src="docs/select_37.mov" alt="select" width="550">
 </p>
 
+A green coloured snake greets the player, press any button would proceed to the level selection state. There are 3 levels to challange, with respective game time, player could hit buttons to switch between states and select them by pushing to select button. There's instrucion print on the 
 ### 2.Three Levels to challange:
 
 
