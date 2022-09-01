@@ -14,7 +14,7 @@
 
 
 
-## How to play?
+## How to play??
 
 ### 1.Greetings and select your level
 
