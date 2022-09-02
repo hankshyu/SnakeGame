@@ -2,7 +2,9 @@
 
 <img alt="GitHub License" src="https://img.shields.io/github/license/hankshyu/SnakeGame?color=orange&logo=github"> <img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/hankshyu/SnakeGame?color=orange&logo=github"> <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hankshyu/SnakeGame"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/hankshyu/SnakeGame"> <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/hankshyu/SnakeGame"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/hankshyu/SnakeGame?logo=git&color=green"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/hankshyu/SnakeGame?logo=git&color=green">  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hankshyu/SnakeGame?logo=git&color=green">
 
-
+Watch our demo video: 
+https://www.youtube.com/watch?v=i1zptkf-Fc0&list=PLOxWswkzVO8c3qGFNfc3bdy-NcbLJj4Fx&index=1
+https://www.youtube.com/watch?v=TgKR0Fir0YI&list=PLOxWswkzVO8c3qGFNfc3bdy-NcbLJj4Fx&index=2
 
 ## Nokia's Snake, an all time classic
 
