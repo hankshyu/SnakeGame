@@ -40,6 +40,7 @@ A green coloured snake greets the player, press any button would proceed to the 
 
 
 ### 4.Game Over
+
 <p align="center">
 <img src="docs/score.JPG" alt="score" width="550">
 </p>
