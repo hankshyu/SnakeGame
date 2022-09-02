@@ -19,12 +19,16 @@
 ### 1.Greetings and select your level
 
 <p align="center">
-  <img src="docs/welcome_gif.gif" alt="welcome_gif" height="270"> <img src="docs/select_gif.gif" alt="welcome_gif" height="270">
+  <img src="docs/welcome_gif.gif" alt="welcome_gif" width="550"> 
 </p>
 
 A green coloured snake greets the player, press any button would proceed to the level selection state.
 
 ### 2.Select your level
+
+<p align="center">
+  <img src="docs/select_gif.gif" alt="welcome_gif" width="550"> 
+</p>
 
 There are 3 levels to challange, with respective game time, player could hit buttons to switch between states and select them by pushing at the  select button. There's instrucion print on the bottom part of the screen. The threee levels are: 
 
@@ -32,6 +36,8 @@ There are 3 levels to challange, with respective game time, player could hit but
 |:----:|:----:|:----:|
 |60 seconds| 90 seconds| 105 seconds|
 |![lv1](docs/lv1.png)  |![lv1](docs/lv2.png) |![lv1](docs/lv3.png) |
+
+
 
 
 ### 3.Play the game
