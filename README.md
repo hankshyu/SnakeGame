@@ -4,8 +4,6 @@
 
 
 
-
-
 ## Nokia's Snake, an all time classic
 
 > Launched in 1997 with Nokia 6110, Snake is said to have signalled a new era in mobile gaming but it was the game’s second version in 2000 that became a household name. 
@@ -44,6 +42,7 @@ The four buttons, representing going up, down, left and right manoeuvers the sna
 
 ### 4.Game Over
 
+The game ends when 
 <p align="center">
 <img src="docs/score.JPG" alt="score" width="550">
 </p>
