@@ -4,9 +4,6 @@
 
 
 
-<p align="center">
-  <img src="docs/welcome_gif.gif" alt="welcome_gif" width="550">
-</p>
 
 
 ## Nokia's Snake, an all time classic
@@ -21,11 +18,8 @@
 
 ### 1.Greetings and select your level
 
-
-
-
 <p align="center">
-  <img src="docs/select_gif.gif" alt="welcome_gif" width="550">
+  <img src="docs/welcome_gif.gif" alt="welcome_gif" height="270"> <img src="docs/select_gif.gif" alt="welcome_gif" height="270">
 </p>
 
 A green coloured snake greets the player, press any button would proceed to the level selection state.
