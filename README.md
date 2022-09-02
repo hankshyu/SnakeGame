@@ -25,7 +25,7 @@
 
 
 <p align="center">
-  <img src="docs/select_37.mov" alt="select" width="550">
+  <img src="docs/select_gif.gif" alt="welcome_gif" width="550">
 </p>
 
 A green coloured snake greets the player, press any button would proceed to the level selection state.
