@@ -6,6 +6,10 @@
   <img src="docs/play_37.mov" alt="playing_game" width="550" >
 </p>
 
+# the new snake game:
+
+![newgame](![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/67572824/188193579-ce04eee5-1033-44ca-8ffd-024d5285837a.gif)
+)
 ## Nokia's Snake, an all time classic
 
 > Launched in 1997 with Nokia 6110, Snake is said to have signalled a new era in mobile gaming but it was the game’s second version in 2000 that became a household name. 
