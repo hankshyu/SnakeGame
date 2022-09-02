@@ -25,10 +25,11 @@
   <img src="docs/select_37.mov" alt="select" width="550">
 </p>
 
-A green coloured snake greets the player, press any button would proceed to the level selection state. There are 3 levels to challange, with respective game time, player could hit buttons to switch between states and select them by pushing to select button. There's instrucion print on the 
-### 2.Three Levels to challange:
+A green coloured snake greets the player, press any button would proceed to the level selection state.
 
+### 2.Select your level
 
+There are 3 levels to challange, with respective game time, player could hit buttons to switch between states and select them by pushing at the  select button. There's instrucion print on the bottom part of the screen. The threee levels are: 
 
 |  Level 1   | Level 2  | Level 2  |
 |:----:|:----:|:----:|
@@ -37,6 +38,12 @@ A green coloured snake greets the player, press any button would proceed to the 
 
 
 ### 3.Play the game
+
+The four buttons, representing going up, down, left and right. Manoeuver the snake to avoid the wall and obstacles, If the snake ran into a wall, the Health Point would drop constantly (every second) until the game is over. 
+The goal of the game is to collect as many points as possible. To score points, you have to gather apples and cherries spread accross the map by running over them.
+
+Under the gaming page, there's a countdown clock at the left upper corner. The clock tells the remaining time player has got and would turn into vibrant red and start blinking when it reaches a final 10 second countdown.
+
 
 
 ### 4.Game Over
