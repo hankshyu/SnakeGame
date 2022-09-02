@@ -16,7 +16,7 @@
 
 ## How to play??
 
-### 1.Greetings and select your level
+### 1.Greetings
 
 <p align="center">
   <img src="docs/welcome_gif.gif" alt="welcome_gif" width="550"> 
@@ -24,7 +24,7 @@
 
 A green coloured snake greets the player, press any button would proceed to the level selection state.
 
-### 2.Select your level
+### 2.Select your level to play
 
 <p align="center">
   <img src="docs/select_gif.gif" alt="welcome_gif" width="550"> 
@@ -38,22 +38,13 @@ There are 3 levels to challange, with respective game time, player could hit but
 |![lv1](docs/lv1.png)  |![lv1](docs/lv2.png) |![lv1](docs/lv3.png) |
 
 
-
-
 ### 3.Play the game
 
-The four buttons, representing going up, down, left and right. Manoeuver the snake to avoid the wall and obstacles, If the snake ran into a wall, the Health Point would drop constantly (every second) until the game is over. 
-The goal of the game is to collect as many points as possible. To score points, you have to gather apples and cherries spread accross the map by running over them.
-
-Under the gaming page, there's a countdown clock at the left upper corner. The clock tells the remaining time player has got and would turn into vibrant red and start blinking when it reaches a final 10 second countdown.
-
-
+The four buttons, representing going up, down, left and right manoeuvers the snake to avoid the wall and obstacles, If the snake ran into a wall, the Health Point would drop constantly (every second) until the game is over. The goal of the game is to collect as many points as possible, in ordrer to score points, you have to gather apples and cherries spread accross the entire map by running over them. Under the gaming page, there's a countdown clock at the left upper corner. The clock tells the remaining time player has got and would turn into vibrant red and start blinking when it reaches a final 10 second countdown.
 
 ### 4.Game Over
 
 <p align="center">
 <img src="docs/score.JPG" alt="score" width="550">
 </p>
-
-
 
