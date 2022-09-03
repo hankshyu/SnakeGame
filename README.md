@@ -42,8 +42,8 @@ There are 3 levels to challange, with respective game time, player could hit but
 The four buttons, representing going up, down, left and right manoeuvers the snake to avoid the wall and obstacles, If the snake ran into a wall, the Health Point would drop constantly (every second) until the game is over. The goal of the game is to collect as many points as possible, in ordrer to score points, you have to gather apples and cherries spread accross the entire map by running over them. Under the gaming page, there's a countdown clock at the left upper corner. The clock tells the remaining time player has got and would turn into vibrant red and start blinking when it reaches a final 10 second countdown.
 
 
-Watch our demo video on Youtube <a href="https://www.youtube.com/watch?v=i1zptkf-Fc0&list=PLOxWswkzVO8c3qGFNfc3bdy-NcbLJj4Fx">
-  <img src="docs/youtube_icon.png" alt="yt" width="50">
+Watch our demo video on <a href="https://www.youtube.com/watch?v=i1zptkf-Fc0&list=PLOxWswkzVO8c3qGFNfc3bdy-NcbLJj4Fx">
+  <img src="docs/youtube_icon.png" alt="yt" width="25">
 </a>
 
 ### 4.Game Over
