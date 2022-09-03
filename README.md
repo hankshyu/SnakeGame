@@ -48,7 +48,8 @@ Watch our demo video on <a href="https://www.youtube.com/watch?v=i1zptkf-Fc0&lis
 
 ### 4.Game Over
 
-The game ends when 
+The game ends if you smack the wall too often or the game time is up. Display shows scored points while player may choose to challagne the same level again immediately or return to the level selection state.
+
 <p align="center">
 <img src="docs/score.JPG" alt="score" width="550">
 </p>
