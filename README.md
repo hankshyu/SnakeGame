@@ -2,13 +2,7 @@
 
 <img alt="GitHub License" src="https://img.shields.io/github/license/hankshyu/SnakeGame?color=orange&logo=github"> <img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/hankshyu/SnakeGame?color=orange&logo=github"> <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hankshyu/SnakeGame"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/hankshyu/SnakeGame"> <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/hankshyu/SnakeGame"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/hankshyu/SnakeGame?logo=git&color=green"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/hankshyu/SnakeGame?logo=git&color=green">  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hankshyu/SnakeGame?logo=git&color=green">
 
-Watch our demo video:
 
-<p align="center">
- <a href="https://www.youtube.com/watch?v=i1zptkf-Fc0&list=PLOxWswkzVO8c3qGFNfc3bdy-NcbLJj4Fx">
-  <img src="docs/youtube_icon.png" alt="yt">
- </a>
-</p>
 
 
 ## Nokia's Snake, an all time classic
@@ -46,6 +40,11 @@ There are 3 levels to challange, with respective game time, player could hit but
 ### 3.Play the game
 
 The four buttons, representing going up, down, left and right manoeuvers the snake to avoid the wall and obstacles, If the snake ran into a wall, the Health Point would drop constantly (every second) until the game is over. The goal of the game is to collect as many points as possible, in ordrer to score points, you have to gather apples and cherries spread accross the entire map by running over them. Under the gaming page, there's a countdown clock at the left upper corner. The clock tells the remaining time player has got and would turn into vibrant red and start blinking when it reaches a final 10 second countdown.
+
+
+Watch our demo video on Youtube <a href="https://www.youtube.com/watch?v=i1zptkf-Fc0&list=PLOxWswkzVO8c3qGFNfc3bdy-NcbLJj4Fx">
+  <img src="docs/youtube_icon.png" alt="yt" width="50">
+</a>
 
 ### 4.Game Over
 
