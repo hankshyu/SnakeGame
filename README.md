@@ -3,15 +3,13 @@
 <img alt="GitHub License" src="https://img.shields.io/github/license/hankshyu/SnakeGame?color=orange&logo=github"> <img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/hankshyu/SnakeGame?color=orange&logo=github"> <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hankshyu/SnakeGame"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/hankshyu/SnakeGame"> <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/hankshyu/SnakeGame"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/hankshyu/SnakeGame?logo=git&color=green"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/hankshyu/SnakeGame?logo=git&color=green">  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hankshyu/SnakeGame?logo=git&color=green">
 
 
-
-
 ## Nokia's Snake, an all time classic
 
-> Launched in 1997 with Nokia 6110, Snake is said to have signalled a new era in mobile gaming but it was the game’s second version in 2000 that became a household name. 
-> 
-> PIA KRISHNANKUTTY 18 July, 2020 02:00 pm IST
+After launching in 1997 on the Nokia 6110, Snake quickly became a phenomenon. The game’s developer Taneli Armanto discusses its origin and digital legacy.
 
+Snake was a milestone moment for the mobile gaming industry, and much of what we see today can be linked back to the dawn of the cellular serpent navigating the small, black-and-white screen. It brought smiles, happiness, brain stimulation, and it was just something to do now and then – or better yet fill the time on a drab afternoon bus ride back from school. It also showed us what can be done on a phone, perhaps making us a little bit more demanding for future years to come. “The tiny details that were added in to make the players’ life easier, the lack of programming errors, the beauty of the source code; it was perfect,” says Taneli on a lasting note about the game’s iconic impact. “And sometimes, every now and then, I still play it myself.”
 
+Ayla Angelos, 23 February 2021
 
 ## How to play??
 
